@@ -11,6 +11,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 5.1'
+gem 'paperclip', '~> 5.1'
 
 group :development, :test do
   gem 'byebug', platform: :mri
